@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/u1231271/Documents/GitHub/UnrealEngineMetaSoundsPlayground/MetaSoundsPlayground/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/u1231271/Documents/GitHub/UnrealEngineMetaSoundsPlayground/MetaSoundsPlayground/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/u1231271/Documents/GitHub/UnrealEngineMetaSoundsPlayground/MetaSoundsPlayground/Content/Sounds/MSS_BeepA4.uasset",
+				"C:/Users/u1231271/Documents/GitHub/UnrealEngineMetaSoundsPlayground/MetaSoundsPlayground/Content/Sounds/MSS_BeepA3.uasset",
+				"C:/Users/u1231271/Documents/GitHub/UnrealEngineMetaSoundsPlayground/MetaSoundsPlayground/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/u1231271/Documents/GitHub/UnrealEngineMetaSoundsPlayground/MetaSoundsPlayground/Content/BP_QuartzCube.uasset"
 			]
 		}
 	]
